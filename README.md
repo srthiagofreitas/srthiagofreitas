@@ -1,17 +1,12 @@
 ## Olá eu sou o Thiago Freitas👋
 
-<!-- <a href="https://discord.gg/zh2FxtP">
-  <img align="left" alt="SrTF Discord" width="21px" src="https://raw.githubusercontent.com/srthiagofreitas/srthiagofreitas/master/assets/discord-round.svg" />
-</a> -->
+![](https://visitor-badge.glitch.me/badge?page_id=srthiagofreitas)
+
 <br>
-
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srthiagofreitas/)](https://www.linkedin.com/in/srthiagofreitas/) -->
 
 ![](https://github-readme-stats.vercel.app/api?username=srthiagofreitas&show_icons=true&theme=dracula&hide=contribs,issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srthiagofreitas&layout=compact&theme=dracula)
-
 
 <!--
 **srthiagofreitas/srthiagofreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,3 +47,5 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/srthiagofreitas/srthiagofreitas/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=srthiagofreitas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
